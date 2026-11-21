@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+BB-BAN-01,Banking and Sanctions Compliance,Plantation slavery and colonial extraction legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+BB-BAN-02,Banking and Sanctions Compliance,Climate vulnerability and adaptation costs,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+BB-BAN-03,Banking and Sanctions Compliance,Post-independence economic restructuring pressures,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+BB-BAN-04,Banking and Sanctions Compliance,Plantation slavery and colonial extraction legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+BB-BAN-05,Banking and Sanctions Compliance,Climate vulnerability and adaptation costs,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
