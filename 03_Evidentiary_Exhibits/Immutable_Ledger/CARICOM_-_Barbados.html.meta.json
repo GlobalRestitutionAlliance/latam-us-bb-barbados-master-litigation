@@ -1,0 +1,17 @@
+{
+  "url": "https://caricom.org/country_profiles/barbados/",
+  "final_url": "https://caricom.org/country_profiles/barbados/",
+  "title": "CARICOM - Barbados",
+  "fetched_at": "2026-11-23T15:31:48.790005Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 345726,
+  "sha256": "f84c4d2595005e8331c3b9f105eace2e01b1a5a9041e19c4bba0ecba12820724",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
